@@ -25,7 +25,34 @@
 
 </div>
 <!-- /.intro-header -->
+<div class="content-section-a">
 
+    <div class="container" id="fila1">
+
+        <div class="row">
+            <div class="col-lg-4 text-center">
+                <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/compet.jpg">
+                <h2>Sostenibilidad</h2>
+                <p>Bienes publicos globales. Aprovechamiento equitativo y racional de los recursos naturales.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4 text-center">
+                <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/farm.jpg">
+                <h2>Competitividad</h2>
+                <p>A través de la EPSAGRO  Tropico Internacional, apoyamos el sector de producción primaria con enfoque agroexportador y de inserción internacional.</p>
+                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4 text-center">
+                <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/mundo.jpg">
+                <h2>Globalización</h2>
+                <p>Plataforma e-commerce para oferta de productos. Facilitacion de negocios entre locales e interesados en mercados de interés.</p><p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+            </div><!-- /.col-lg-4 -->
+        </div>
+
+    </div>
+    <!-- /.container -->
+
+</div>
 <div class="content-section-a">
 
     <div class="container">
