@@ -6,7 +6,7 @@
             <div class="col-lg-12">
                 <div class="intro-message">
                     <h1>Tropico Internacional</h1>
-                    <h3>A Template by Start Bootstrap</h3>
+                    <h3>Internacionalización Agroindustrial</h3>
                     <hr class="intro-divider">
                     <ul class="list-inline intro-social-buttons">
                         <li><a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
