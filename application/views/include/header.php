@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Landing Page Template for Bootstrap</title>
+        <title>Tropico Internacional</title>
 
         <!-- Bootstrap core CSS -->
         <link rel="stylesheet" href="<?= base_url() ?>assets/libs/bootstrap-3.1.1/css/bootstrap.min.css" >
@@ -32,18 +32,18 @@
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                        <span class="sr-only">Toggle navigation</span>
+                        <span class="sr-only">Tropico Internacional</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="http://startbootstrap.com">Start Bootstrap</a>
+                    <a class="navbar-brand" href="http://startbootstrap.com">Tropico Internacional</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-right navbar-ex1-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="#about">About</a>
+                        <li><a href="#about">Inicio</a>
                         </li>
                         <li><a href="#services">Services</a>
                         </li>
