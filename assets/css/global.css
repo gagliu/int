@@ -97,7 +97,7 @@ body, h1, h2, h3, h4, h5, h6 {
 }
 
 .banner {
-    padding: 100px 0;
+    padding: 50px 0;
     color: #f8f8f8;
     background: url(../img/forest.jpg) no-repeat center -720px;
 }
@@ -149,4 +149,47 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+#map-canvas{
+    height:400px;
+}
+#contact {
+    padding-top: 40px;
+    margin-top: -40px;
+}
+.header-title {
+    color: #535A6C;
+    font-size: 40px;
+    margin-top: 60px;
+    text-align: center;
+}
+.subtitle {
+    font-weight: 300;
+    color: #34495E;
+    font-size: 22px;
+    text-align: center;
+}
+
+.title-contact {
+    margin-top: 0;
+    color: #25caa8;
+    font-size: 24px;
+    font-weight: 700;
+}
+.paragraph-contact {
+    font-size: 16px; 
+    line-height: 28px;
+    font-size: 14px;
+    color: #535A6C;
+}
+.title-contact-sm {
+    margin-bottom: 20px;
+    font-size: 16px;
+    padding-top: 4px;
+}
+textarea.form-control {
+    height: 240px;
+}
+body{
+    color: #535A6C;
 }

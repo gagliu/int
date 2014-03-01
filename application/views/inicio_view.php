@@ -121,7 +121,75 @@
 
 </div>
 <!-- /.content-section-a -->
+<div id="contact">
+    <div class="bg-contact grey">
+        <div class="container-contact container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1 class="header-title">CONTACT US</h1>
+                    <h2 class="subtitle">Feel free to contact us anytime !</h2>
+                    <br>
+                    <hr class="hr-contact">
+                    <br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-map col-sm-12 ">
+                    <div  id="map-canvas">
+                    </div>
+                </div>
+            </div>
+            <br>
+             <br>
+            <div class="row-contact row">
+                <div class="col-sm-6">
+                    <div class="row">
+                        <form method="POST" id="ajax_form" action="email.php" role="form" class="form-contact">
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <input class="form-control form-flat" type="text" name="name" id="name" placeholder="Name" >
+                                </div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <input class="form-control form-flat" type="text" name="email" id="email" placeholder="Email" > 
+                                </div>
+                            </div>
+                            <div class="col-sm-12">
+                                <div class="form-group">
+                                    <textarea name="message" class="form-control form-flat" id="message"></textarea>
+                                </div>
+                                <button type="submit" class="submit btn btn-primary">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
 
+                <div class="col-info col-sm-6">
+                    <div class="wrapper-contact-info row">
+                        <div class="col-contact-info col-sm-12">
+                            <h4 class="title-contact">Get in touch</h4>
+                            <P class="paragraph-contact">We'd love to here from you. Drop us a line if you have any questions. Or just let us know what you're working on so that we can find ways to help serve you better.
+                            </P>
+                        </div>
+
+                        <div class="col-contact-info col-sm-12">
+                            <h4 class="title-contact">The office</h4>
+                            <i class="fa fa-map-marker fa-2x pull-left"></i>
+                            <h5 class="title-contact-sm">Address: Some Address 247, NY</h5>
+                            <i class="fa fa-phone fa-2x pull-left"></i>
+                            <h5 class="title-contact-sm">Phone: +371 9800 4893</h5>
+                            <i class="fa fa-envelope fa-2x pull-left"></i>
+                            <h5 class="title-contact-sm">support@example.com</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
 <div class="banner">
 
     <div class="container">
