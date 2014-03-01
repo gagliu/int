@@ -33,7 +33,7 @@
             <div class="col-lg-4 text-center">
                 <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/compet.jpg">
                 <h2>Sostenibilidad</h2>
-                <p>Bienes publicos globales. Aprovechamiento equitativo y racional de los recursos naturales.</p>
+                <p>Gestión sostenible de recursos naturales<br> en la producción de alimentos.<br>Aire limpio + Agua pura + Alimentos confiables</p>
                 <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4 text-center">
@@ -45,7 +45,7 @@
             <div class="col-lg-4 text-center">
                 <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/mundo.jpg">
                 <h2>Globalización</h2>
-                <p>Plataforma e-commerce para oferta de productos. Facilitacion de negocios entre locales e interesados en mercados de interés.</p><p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                <p>Información mundial en un click:<br> Actualidad nacional e internacional.<br>Tendencias globales de consumo.</p><p><a class="btn btn-default" href="#" role="button">View details »</a></p>
             </div><!-- /.col-lg-4 -->
         </div>
 
