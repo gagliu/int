@@ -5,7 +5,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
-        <meta name="author" content="">
+        <meta name="keywords" content="type here your important and meanfull keywords" />
+        <meta name="author" content="Juan Diego Giraldo Soto &&  Luis Fernando Montoya Gomez">
 
         <title>Tropico Internacional</title>
 
