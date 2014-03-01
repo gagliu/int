@@ -4,8 +4,17 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <meta name="description" content="Agroexportación,comercializacion de alimentos, fomento a la competitividad agropecuarioa con sostenibilidad ambiental y equidad social">
-        <meta name="author" content="">
+        <meta itemprop="name" content="juangiraldo222@yahoo.es && luismec90@gmail.com" />
+        <meta itemprop="author" content="juangiraldo222@yahoo.es && luismec90@gmail.com" />
+        <meta itemprop="creator" content="juangiraldo222@yahoo.es && luismec90@gmail.com" />
+        <meta itemprop="provider" content="juangiraldo222@yahoo.es && luismec90@gmail.com" />
+        <meta itemprop="copyright" content="Trópico Internacional" />
+        <meta name="distributor" content="Local" />
+        <meta itemprop="contentRating" content="General" />
+        <meta name="robots" content="All" />
+        <meta name="revisit-after" content="7 days" />
+        <meta name="description" content="Agroexportación,comercializacion de alimentos, fomento a la competitividad agropecuarioa con sostenibilidad ambiental y equidad social" />
+        <meta name="keywords" content="agroexportación, internacionalización,comercio internacional,comercio exterior,agroindustria,e-commerce,fresh food, sustainable produced food, rural social equity, competitividad, empleo rural, educación rural, globalización, sostenibilidad, pymes agroindustriales, agropecuario, agromercados, food comercialization, fruits, vegetables, sustainability, forest preservation, forest conservation, free trade, comercio justo, asociatividad" />
 
         <title>Tropico Internacional</title>
 
