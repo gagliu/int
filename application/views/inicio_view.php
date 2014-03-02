@@ -136,22 +136,22 @@
              <div class="row-contact row">
                 <div class="col-sm-6">
                     <div class="row">
-                        <form method="POST"  action="<?= base_url() ?>/email/eviarEmail" role="form" class="form-contact">
+                        <form method="POST"  action="<?= base_url() ?>email/eviarEmail" role="form" class="form-contact">
                             <div class="col-sm-12">
                                 <div class="form-group">
-                                    <input class="form-control form-flat" type="text" name="nombre" id="name" placeholder="Name" required>
+                                    <input class="form-control form-flat" type="text" name="nombre" id="name" placeholder="Nombre" required>
                                 </div>
                             </div>
                             <div class="col-sm-12">
                                 <div class="form-group">
-                                    <input class="form-control form-flat" type="text" name="email" id="email" placeholder="Email" required> 
+                                    <input class="form-control form-flat" type="email" name="email" id="email" placeholder="Email" required> 
                                 </div>
                             </div>
                             <div class="col-sm-12">
                                 <div class="form-group">
-                                    <textarea name="mensaje" class="form-control form-flat" id="message" required></textarea>
+                                    <textarea name="mensaje" class="form-control form-flat" id="message"  placeholder="Mensaje" required></textarea>
                                 </div>
-                                <button type="submit" class="submit btn btn-primary">Submit</button>
+                                <button type="submit" class="submit btn btn-primary">Enviar</button>
                             </div>
                         </form>
                     </div>
