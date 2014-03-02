@@ -129,42 +129,34 @@
                     <h1 class="header-title">CONTACT US</h1>
                     <h2 class="subtitle">Feel free to contact us anytime !</h2>
                     <br>
-                    <hr class="hr-contact">
+                  
                     <br>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-map col-sm-12 ">
-                    <div  id="map-canvas">
-                    </div>
-                </div>
-            </div>
-            <br>
-             <br>
-            <div class="row-contact row">
+             <div class="row-contact row">
                 <div class="col-sm-6">
                     <div class="row">
-                        <form method="POST" id="ajax_form" action="email.php" role="form" class="form-contact">
+                        <form method="POST"  action="<?= base_url() ?>/email/eviarEmail" role="form" class="form-contact">
                             <div class="col-sm-12">
                                 <div class="form-group">
-                                    <input class="form-control form-flat" type="text" name="name" id="name" placeholder="Name" >
+                                    <input class="form-control form-flat" type="text" name="nombre" id="name" placeholder="Name" required>
                                 </div>
                             </div>
                             <div class="col-sm-12">
                                 <div class="form-group">
-                                    <input class="form-control form-flat" type="text" name="email" id="email" placeholder="Email" > 
+                                    <input class="form-control form-flat" type="text" name="email" id="email" placeholder="Email" required> 
                                 </div>
                             </div>
                             <div class="col-sm-12">
                                 <div class="form-group">
-                                    <textarea name="message" class="form-control form-flat" id="message"></textarea>
+                                    <textarea name="mensaje" class="form-control form-flat" id="message" required></textarea>
                                 </div>
                                 <button type="submit" class="submit btn btn-primary">Submit</button>
                             </div>
                         </form>
                     </div>
                 </div>
-
+                 <br>
                 <div class="col-info col-sm-6">
                     <div class="wrapper-contact-info row">
                         <div class="col-contact-info col-sm-12">
@@ -186,6 +178,16 @@
                     </div>
                 </div>
             </div>
+              <hr class="hr-contact">
+            <div class="row">
+                <div class="col-map col-sm-12 ">
+                    <div  id="map-canvas">
+                    </div>
+                </div>
+            </div>
+            <br>
+             <br>
+           
         </div>
     </div>
 </div>

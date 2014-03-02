@@ -16,7 +16,7 @@
         <meta name="description" content="Agroexportación,comercializacion de alimentos, fomento a la competitividad agropecuarioa con sostenibilidad ambiental y equidad social" />
         <meta name="keywords" content="agroexportación, internacionalización,comercio internacional,comercio exterior,agroindustria,e-commerce,fresh food, sustainable produced food, rural social equity, competitividad, empleo rural, educación rural, globalización, sostenibilidad, pymes agroindustriales, agropecuario, agromercados, food comercialization, fruits, vegetables, sustainability, forest preservation, forest conservation, free trade, comercio justo, asociatividad" />
         <link href="<?= base_url() ?>assets/img/tree.gif" rel="icon" type="image/x-icon">
-        <title>::Tropico Internacional::</title>
+        <title>::Trópico Internacional::</title>
 
         <!-- Bootstrap core CSS -->
         <link rel="stylesheet" href="<?= base_url() ?>assets/libs/bootstrap-3.1.1/css/bootstrap.min.css" >
