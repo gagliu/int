@@ -39,7 +39,7 @@
             <div class="col-lg-4 text-center">
                 <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/farm.jpg">
                 <h2>Competitividad</h2>
-                <p>A través de la EPSAGRO  Tropico Internacional, apoyamos el sector de producción primaria con enfoque agroexportador y de inserción internacional.</p>
+                <p>A través de la EPSAGRO Trópico Internacional proporcionamos asistencia técnica directa rural a proyectos productivos con enfoque agroexportador.</p>
                 
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4 text-center">
@@ -61,9 +61,8 @@
             <div class="col-lg-5 col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Facilitación del Comercio:
-                    <br>Tropic e-Market Tool</h2>
-                <p class="lead">Contacte compradores en cualquier lugar del mundo.</p>
+                <h2 class="section-heading">Comercialización Internacional</h2>
+                <p class="lead">Facilitamos la exportación de productores locales, promoviendo la asociatividad y comercialización conjunta</p>
             </div>
             <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                 <img class="img-responsive" src="<?= base_url() ?>assets/img/ipad.png" alt="">
@@ -84,9 +83,9 @@
             <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Asociatividad y 
-                    <br>Cooperativismo</h2>
-                <p class="lead"></p>
+                <h2 class="section-heading">Facilitación del Comercio:
+                    <br>Tropic e-Market Tool</h2>
+                <p class="lead">Conozca nuestra plataforma para realizar negocios online. Acceda a nuestro inventario de compradores</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <img class="img-responsive" src="<?= base_url() ?>assets/img/doge.png" alt="">
@@ -107,9 +106,9 @@
             <div class="col-lg-5 col-sm-6">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Inclusion social y
-                    <br>educación rural</h2>
-                <p class="lead"></a>.</p>
+                <h2 class="section-heading">Asociatividad y 
+                    <br>Cooperativismo</h2>
+                <p class="lead"></a>Reciba apoyo técnico para el desarrollo de proyectos con vocación exportadora.</p>
             </div>
             <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                 <img class="img-responsive" src="<?= base_url() ?>assets/img/phones.png" alt="">
@@ -198,7 +197,7 @@
 
         <div class="row">
             <div class="col-lg-6">
-                <h2>Connect to Start Bootstrap:</h2>
+                <h2>Siguenos</h2>
             </div>
             <div class="col-lg-6">
                 <ul class="list-inline banner-social-buttons">

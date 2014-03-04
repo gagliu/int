@@ -54,7 +54,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="#about">Inicio</a>
                         </li>
-                        <li><a href="#services">Servicios</a>
+                        <li><a href="http://tropicointernacional.com/services">Servicios</a>
                         </li>
                         <li><a href="#contact">Contacto</a>
                         </li>
