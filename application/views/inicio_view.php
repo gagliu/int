@@ -62,7 +62,7 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Comercialización Internacional</h2>
-                <p class="lead">Concentramos la producción de pequeños y medianos empresarios agroindustriales locales para alcanzar volumenes transables internacionalmente en los mercados de interés internacionalmente.</p>
+                <p class="lead">Concentramos la producción de pequeños y medianos empresarios agroindustriales para alcanzar volumenes transables internacionalmente.</p>
             </div>
             <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                 <img class="img-responsive" src="<?= base_url() ?>assets/img/ipad.png" alt="">
@@ -85,7 +85,7 @@
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Facilitación del Comercio:
                     <br>Tropic e-Market Tool</h2>
-                <p class="lead">Conozca nuestra plataforma para realizar negocios online. Acceda a nuestro inventario de compradores</p>
+                <p class="lead">Conozca nuestra plataforma para realizar negocios online. Acceda a nuestro inventario de compradores y productos ofrecidos.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                 <img class="img-responsive" src="<?= base_url() ?>assets/img/doge.png" alt="">
@@ -107,7 +107,7 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Asociatividad y 
-                    <br>Cooperativismo</h2>
+                    Cooperativismo</h2>
                 <p class="lead"></a>Tropico Internacional posibilita el acceso de pequeños y medianos productores agroindustriales a mercados internacionales, por medio de la asociatividad y la transferencia de conocimiento.</p>
             </div>
             <div class="col-lg-5 col-lg-offset-2 col-sm-6">
@@ -126,7 +126,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <h1 class="header-title">CONTACTENOS</h1>
-                    <h2 class="subtitle">Feel free to contact us anytime !</h2>
+                    <h2 class="subtitle">Cuentenos sus dudas e inquietudes</h2>
                     <br>
                   
                     <br>
