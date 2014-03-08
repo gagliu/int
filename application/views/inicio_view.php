@@ -62,7 +62,7 @@
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Comercialización Internacional</h2>
-                <p class="lead">Facilitamos la exportación de productores locales, promoviendo la asociatividad y comercialización conjunta</p>
+                <p class="lead">Concentramos la producción de pequeños y medianos empresarios agroindustriales locales para alcanzar volumenes transables internacionalmente en los mercados de interés internacionalmente.</p>
             </div>
             <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                 <img class="img-responsive" src="<?= base_url() ?>assets/img/ipad.png" alt="">
@@ -108,7 +108,7 @@
                 <div class="clearfix"></div>
                 <h2 class="section-heading">Asociatividad y 
                     <br>Cooperativismo</h2>
-                <p class="lead"></a>Reciba apoyo técnico para el desarrollo de proyectos con vocación exportadora.</p>
+                <p class="lead"></a>Tropico Internacional posibilita el acceso de pequeños y medianos productores agroindustriales a mercados internacionales, por medio de la asociatividad y la transferencia de conocimiento.</p>
             </div>
             <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                 <img class="img-responsive" src="<?= base_url() ?>assets/img/phones.png" alt="">
