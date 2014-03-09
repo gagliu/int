@@ -31,21 +31,28 @@
 
         <div class="row">
             <div class="col-lg-4 text-center">
-                <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/compet.jpg">
                 <h2>Sostenibilidad</h2>
+                
+                <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/compet.jpg">
+                <br>
                 <p>Gestión sostenible de recursos naturales<br> en la producción de alimentos.<br>Aire limpio + Agua pura + Alimentos confiables</p>
                 
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4 text-center">
-                <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/farm.jpg">
                 <h2>Competitividad</h2>
+                <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/farm.jpg"><br>
                 <p>A través de la EPSAGRO Trópico Internacional proporcionamos asistencia técnica directa rural a proyectos productivos con enfoque agroexportador.</p>
+                
+                
                 
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4 text-center">
-                <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/mundo.jpg">
+                
                 <h2>Globalización</h2>
+                <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/glob.png">
                 <p>Información mundial en un click:<br> Actualidad nacional e internacional.<br>Tendencias globales de consumo.</p>
+                
+                
             </div><!-- /.col-lg-4 -->
         </div>
 
@@ -65,7 +72,7 @@
                 <p class="lead">Concentramos la producción de pequeños y medianos empresarios agroindustriales para alcanzar volumenes transables internacionalmente.</p>
             </div>
             <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                <img class="img-responsive" src="<?= base_url() ?>assets/img/ipad.png" alt="">
+                <img class="img-responsive" src="<?= base_url() ?>assets/img/cont.png" alt="">
             </div>
         </div>
 
@@ -88,7 +95,7 @@
                 <p class="lead">Conozca nuestra plataforma para realizar negocios online. Acceda a nuestro inventario de compradores y productos ofrecidos.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                <img class="img-responsive" src="<?= base_url() ?>assets/img/doge.png" alt="">
+                <img class="img-responsive" src="<?= base_url() ?>assets/img/cm.png" alt="">
             </div>
         </div>
 
@@ -111,7 +118,7 @@
                 <p class="lead"></a>Tropico Internacional posibilita el acceso de pequeños y medianos productores agroindustriales a mercados internacionales, por medio de la asociatividad y la transferencia de conocimiento.</p>
             </div>
             <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                <img class="img-responsive" src="<?= base_url() ?>assets/img/phones.png" alt="">
+                <img class="img-responsive" src="<?= base_url() ?>assets/img/teacher.png" alt="">
             </div>
         </div>
 
@@ -159,19 +166,19 @@
                 <div class="col-info col-sm-6">
                     <div class="wrapper-contact-info row">
                         <div class="col-contact-info col-sm-12">
-                            <h4 class="title-contact">Get in touch</h4>
-                            <P class="paragraph-contact">We'd love to here from you. Drop us a line if you have any questions. Or just let us know what you're working on so that we can find ways to help serve you better.
+                            <h4 class="title-contact">Contacto</h4>
+                            <P class="paragraph-contact">En Tropico Internacional siempre dispuestos a brindarle la mejor información, por eso hemos dispuesto de éste canal a través del cual usted puede entrar en contacto con nosotros y conocer más sobre nuestros productos y servicios. Si tiene alguna solicitud, reclamo o comentario sobre alguno de nuestros servicios, complete el formulario a continuación
                             </P>
                         </div>
 
                         <div class="col-contact-info col-sm-12">
-                            <h4 class="title-contact">The office</h4>
+                            <h4 class="title-contact">Nuestras Oficinas</h4>
                             <i class="fa fa-map-marker fa-2x pull-left"></i>
-                            <h5 class="title-contact-sm">Address: Some Address 247, NY</h5>
+                            <h5 class="title-contact-sm">Dirección: Crra 26-155, Medellín, Antioquia</h5>
                             <i class="fa fa-phone fa-2x pull-left"></i>
-                            <h5 class="title-contact-sm">Phone: +371 9800 4893</h5>
+                            <h5 class="title-contact-sm">Telefono: +57 548 55 10</h5>
                             <i class="fa fa-envelope fa-2x pull-left"></i>
-                            <h5 class="title-contact-sm">support@example.com</h5>
+                            <h5 class="title-contact-sm">tropico.internacional@gmail.com</h5>
                         </div>
 
                     </div>

@@ -46,15 +46,16 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="http://startbootstrap.com">Tropico Internacional</a>
+                    <a class="navbar-brand" href="">Tropico Internacional</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-right navbar-ex1-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="#about">Inicio</a>
+                        <li><a href="<?= base_url() ?>inicio">Inicio</a>
+                        <li><a href="<?= base_url() ?>empresa">Empresa</a>
                         </li>
-                        <li><a href="http://tropicointernacional.com/services">Servicios</a>
+                        <li><a href="<?= base_url() ?>services">Servicios</a>
                         </li>
                         <li><a href="#contact">Contacto</a>
                         </li>
