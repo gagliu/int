@@ -49,7 +49,7 @@
             <div class="col-lg-4 text-center">
                 
                 <h2>Globalización</h2>
-                <img class="img-circle" data-src="holder.js/140x140" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/glob.png">
+                <img class="img-circle" data-src="holder.js/400x400" alt="140x140" style="width: 140px; height: 140px;" src="<?= base_url() ?>assets/img/glob.png">
                 <p>Información mundial en un click:<br> Actualidad nacional e internacional.<br>Tendencias globales de consumo.</p>
                 
                 
@@ -95,7 +95,7 @@
                 <p class="lead">Conozca nuestra plataforma para realizar negocios online. Acceda a nuestro inventario de compradores y productos ofrecidos.</p>
             </div>
             <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                <img class="img-responsive" src="<?= base_url() ?>assets/img/cm.png" alt="">
+                <img class="img-responsive" src="<?= base_url() ?>assets/img/cm.png" alt="" id="com" >
             </div>
         </div>
 
